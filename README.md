@@ -6,10 +6,10 @@
 
 ## Description
 
-Introducing **Astro LaunchUI**, the ultimate starter template for your e-commerce web project. Built on Astro's next-gen island architecture, Astro LaunchUI offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.
+Introducing **Astro LaunchUI**, the ultimate starter template for your startup web project. Built on Astro's next-gen island architecture, Astro LaunchUI offers a sleek and modern design with a wide range of components and features to help you create a stunning online store.
 
 **Main Features**
-Build your e-commerce website quickly and efficiently with:
+Build your startup website quickly and efficiently with:
 - 70+ fully coded elements
 - 3 fully coded example pages
 - 30+ blocks
@@ -22,7 +22,7 @@ We created a set of pre-built pages to help you get inspired or show something t
 - [Shopping Page](https://demos.creative-tim.com/astro-launch-ui/shopping-cart/): Includes a summary of the items in the cart and a form for billing and shipping information.
 - more+
 
-Astro LaunchUI has everything you need to create the e-commerce website of your dreams.
+Astro LaunchUI has everything you need to create the startup website of your dreams.
 
 
 ## 🚀 Project Structure
