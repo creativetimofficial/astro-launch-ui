@@ -51,7 +51,7 @@ export function HeroSectionTwo() {
             <div className="mt-12 flex flex-wrap justify-center gap-3 lg:justify-start">
               <Button color="dark" className="flex items-center">
                 <img
-                  src=".//logos/logo-ios.svg"
+                  src="/astro-launch-ui/logos/logo-ios.svg"
                   alt="ios"
                   className="-mt-1 mr-1.5 h-6 w-6"
                 />
@@ -59,7 +59,7 @@ export function HeroSectionTwo() {
               </Button>
               <Button color="dark" className="flex items-center">
                 <img
-                  src=".//logos/logo-android.svg"
+                  src="/astro-launch-ui/logos/logo-android.svg"
                   alt="ios"
                   className="-mt-0.5 mr-1.5 h-6 w-6"
                 />

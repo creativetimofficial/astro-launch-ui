@@ -48,7 +48,7 @@ export function SignIn() {
               fullWidth
             >
               <img
-                src="logos/logo-google.png"
+                src="/astro-launch-ui/logos/logo-google.png"
                 alt="google"
                 className="-mt-0.5 h-7 w-7"
               />

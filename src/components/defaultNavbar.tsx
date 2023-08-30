@@ -227,7 +227,7 @@ export default function Example() {
                 Sign In
               </Button>
             </a>
-            <a href="./signup">
+            <a href="/astro-launch-ui/signup">
               <Button size="sm" color="dark">
                 Sign Up
               </Button>
@@ -249,12 +249,12 @@ export default function Example() {
         <Collapse open={openNav}>
           <NavList />
           <div className="flex w-full flex-nowrap items-center gap-2 lg:hidden">
-            <a href="./login">
+            <a href="/astro-launch-ui/login">
               <Button variant="outlined" size="sm" color="dark" fullWidth>
                 Sign In
               </Button>
             </a>
-            <a href="./signup">
+            <a href="/astro-launch-ui/signup">
               <Button size="sm" fullWidth color="dark">
                 Sign Up
               </Button>
