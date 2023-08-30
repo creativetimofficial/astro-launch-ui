@@ -39,7 +39,7 @@ export function SignUp() {
               fullWidth
             >
               <img
-                src="logos/logo-google.png"
+                src="/astro-launch-ui/logos/logo-google.png"
                 alt="google"
                 className="h-6 w-6"
               />{" "}
@@ -53,7 +53,7 @@ export function SignUp() {
               fullWidth
             >
               <img
-                src="logos/logo-facebook.png"
+                src="/astro-launch-ui/logos/logo-facebook.png"
                 alt="facebook"
                 className="-mt-0.5 h-7 w-7"
               />
@@ -67,7 +67,7 @@ export function SignUp() {
               fullWidth
             >
               <img
-                src="logos/logo-apple.png"
+                src="/astro-launch-ui/logos/logo-apple.png"
                 alt="apple"
                 className="-mt-1 h-7 w-7"
               />
@@ -79,7 +79,7 @@ export function SignUp() {
             >
               Already have an account?{" "}
               <a
-                href="./login"
+                href="/astro-launch-ui/login"
                 className="font-medium text-dark transition-colors hover:text-blue-700"
               >
                 Log in
