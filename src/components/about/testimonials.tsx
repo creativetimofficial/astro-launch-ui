@@ -1,10 +1,8 @@
 import {
   Card,
-  CardHeader,
   CardBody,
   Typography,
 } from "@material-tailwind/react";
-import { StarIcon } from "@heroicons/react/24/solid";
 
 export function TestimonialSectionTwo() {
   return (
@@ -17,7 +15,7 @@ export function TestimonialSectionTwo() {
           <CardBody className="flex flex-col-reverse gap-16 py-20 px-14 lg:flex-row">
             <div>
               <img
-                src="/astro-launch-ui/logos/logo-spotify.svg"
+                src="logos/logo-spotify.svg"
                 alt="spotify"
                 className="mb-8 w-36"
               />
@@ -47,7 +45,7 @@ export function TestimonialSectionTwo() {
             </div>
             <div className="relative mx-auto grid shrink-0 place-items-center lg:ml-auto">
               <img
-                src="/astro-launch-ui/avatars/avatar6.jpg"
+                src="avatars/avatar6.jpg"
                 alt="testimonial image"
                 className="h-80 w-80 rounded-full object-cover"
               />
