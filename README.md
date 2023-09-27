@@ -1,6 +1,6 @@
 # Welcome to [Astro Launch UI](https://www.creative-tim.com/astro/launch-ui/)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/astro-launch-ui.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-launch-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/astro-launch-ui.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-launch-ui/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/astro-launch-ui.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-launch-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/astro-launch-ui.svg?maxAge=2592000)](https://github.com/creativetimofficial/astro-launch-ui/issues?q=is%3Aissue+is%3Aclosed)
 
 ![basics](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/astro/astrolaunch-ui-free.jpg)
 
